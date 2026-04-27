@@ -11,3 +11,8 @@ automatización y Redes. Este repositorio recoge mis prácticas de Git del Sprin
 - Administración de sistemas Linux (Ubuntu)
 - Virtualización con VMWare
 - Contenedores con Docker
+
+## Objetivo
+
+Completar el ciclo ASIR adquiriendo competencias reales en administración
+de sistemas, cloud y DevOps para trabajar en entornos profesionales.
