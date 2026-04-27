@@ -1,0 +1,8 @@
+# Archivos de log
+*.log
+
+# Archivos temporales
+*.tmp
+
+# Dependencias Node.js
+node_modules/
